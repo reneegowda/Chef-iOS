@@ -14,3 +14,5 @@ Multiple Collection Views: The app features two main collection views: one for d
 UIKit for UI Components: The app is designed using UIKit, Apple's framework for creating user interfaces. This ensures that the app is responsive and provides a native look and feel, with smooth animations and transitions between the recipe list and the detailed recipe views.
 
 Alamofire for Networking: The app uses Alamofire to handle networking tasks, such as fetching data from an external recipe API. Alamofire simplifies the process of making HTTP requests, handling responses, and dealing with any errors that might arise during the data-fetching process.
+
+Figma: https://www.figma.com/design/c9eTpwyGfa8s7dkjFPxz6v/Chef-iOS?t=UUjTGKX75H7X4hXS-0 
